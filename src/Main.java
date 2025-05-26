@@ -2,6 +2,10 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
+
+    //Ошибся и не сделал для домашки отдельную ветку и запулил её в мастер ветку
+        // из-за чего не смог сделать пул реквест
+
         int randomNum1 = (int) (Math.random() * 71); // 0 to 70
         int randomNum2 = (int) (Math.random() * 11); // 0 to 10
         int randomNum3 = (int) (Math.random() * 121); // 0 to 120
